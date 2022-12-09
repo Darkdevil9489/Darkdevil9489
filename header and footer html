@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="h&f.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<title>navbar</title>
+</head>
+<body>
+<div class="navbar">
+	<a href="#" class="logo">Ak</a>
+	<ul class="nav">
+		<li><a class="active" href="#Home">Home</a></li>
+		<li><a class="active" href="#About">About</a></li>
+		<li><a class="active" href="#Service">Service</a></li>
+		<li><a class="active" href="#Contact">Contact</a></li>
+	</ul>
+	<button type="button">Buy now</button>
+</div>
+<div class="banner-area" id="Home"><h1>title on header</h1>
+<button class="button1">click here</button></div>
+<div class="About-area" id="About">
+	<div class="text-part">
+		<h1>About Area</h1>
+		<p>Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Many Linux distributions use the word "Linux" in their name, but the Free Software Foundation uses the name "GNU/Linux" to emphasize the importance of GNU software, causing some controversy.</p>
+	</div>
+</div>
+<div class="Service-area" id="Service">
+	<div class="text-part">
+		<h1>Service Area</h1>
+		<p>Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Many Linux distributions use the word "Linux" in their name, but the Free Software Foundation uses the name "GNU/Linux" to emphasize the importance of GNU software, causing some controversy.</p>
+	</div>
+</div>
+<div class="Contact-area" id="Contact">
+	<div class="text-part">
+		<h1>Contact Area</h1>
+		<p>Distributions include the Linux kernel and supporting system software and libraries, many of which are provided by the GNU Project. Many Linux distributions use the word "Linux" in their name, but the Free Software Foundation uses the name "GNU/Linux" to emphasize the importance of GNU software, causing some controversy.</p>
+	</div>
+</div>
+<section class="footer-page">
+<footer>
+	<div class="row">
+		<div class="col">
+			<img src="attachment_126660814-removebg-preview.png" class="logo1">
+			<p>85/91 kattapomman street avarampatti rajapalayam</p>
+		</div>
+		<div class="col">
+			<h3>office<div class="underline"><span></span></div></h3>
+			<p>brilsberry pvt ltd</p>
+			<p>1/535,Gandhinagar streeet,</p>
+			<p>pandian Nagar,</p>
+			<p>Virudhunagar.</p>
+			<p>Tamil Nadu 626001</p>
+			<p>6379103458</p>
+		</div>
+		<div class="col">
+			<h3>links<div class="underline"><span></span></div></h3>
+			<li><a href="#Home">Home</a></li>
+			<li><a href="#About">About</a></li>
+			<li><a href="#Service">Service</a></li>
+			<li><a href="#Contact">Contact</a></li>
+		</div>
+		<div class="col">
+			<h3>follow us<div class="underline"><span></span></div></h3>
+			<div class="social-links">
+				<i class="fab fa-facebook-f"></i>
+				<i class="fab fa-twitter"></i>
+				<i class="fab fa-whatsapp"></i>
+				<i class="fab fa-instagram"></i>
+			</div>
+		</div>
+	</div>
+	<hr>
+	<p class="copyright">brilsbery@2021-all rights reserved</p>
+</footer>
+</section>
+</body>
+</html>
